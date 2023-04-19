@@ -1,0 +1,15 @@
+Pikachu electric
+Ratata toxic 
+Charmander fire 
+Squirtle water
+Bulbasaur grass 
+Kakuna poison 
+Vulpix fire 
+Zubat poison 
+Onix grass  
+Growlithe fire 
+Tentacool water
+Golem grass 
+Ponyta fire 
+Magnemite electric
+Seel water
